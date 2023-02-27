@@ -12,6 +12,4 @@ repositories {
     mavenCentral()
 }
 
-dependencies {
-    compileOnly(files('D:/Java/Library/PaperSpigot.jar'))
-}
+dependencies { }
